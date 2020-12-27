@@ -23,6 +23,7 @@ Where: I live in Denton, TX.
 Why: My girlfriend Katherine mused, "I wonder how many days in a year you could say a song is named after?", so I decided to start compiling a list.
 
 Special Thanks:
+
 Katherine Treff - My girlfriend. She instigated a research project that lasted months. She assisted with finding some entries and did some QA of the list items.
 
 Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct [Favorite Office Time Waster blog](https://blog.mysanantonio.com/timewasters/).
