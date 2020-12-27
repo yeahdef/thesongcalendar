@@ -22,16 +22,10 @@ Where: I live in Denton, TX.
 
 Why: My girlfriend Katherine mused, "I wonder how many days in a year you could say a song is named after?", so I decided to start compiling a list.
 
-Special Thanks:
-
-Katherine Treff - My girlfriend. She instigated a research project that lasted months. She assisted with finding some entries and did some QA of the list items.
-
-Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct [Favorite Office Time Waster blog](https://blog.mysanantonio.com/timewasters/).
-
-Early in my research, I found his partial list.
-
-His list made me realize that my list was indeed possible.
-
-[azlyrics.com](https://www.azlyrics.com/), [Wikipedia](https://en.wikipedia.org/) - My main research materials.
-
+Special Thanks:<br>
+Katherine Treff - My girlfriend. She instigated a research project that lasted months. She assisted with finding some entries and did some QA of the list items.<br>
+Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct [Favorite Office Time Waster blog](https://blog.mysanantonio.com/timewasters/).<br>
+Early in my research, I found his partial list.<br>
+His list made me realize that my list was indeed possible.<br>
+[azlyrics.com](https://www.azlyrics.com/), [Wikipedia](https://en.wikipedia.org/) - My main research materials.<br>
 [@djsober](https://twitter.com/sober1) - art design
