@@ -10,7 +10,7 @@ Rules:
 
 Who: I'm [Joey Liechty](https://twitter.com/yeahdef)
 I'm a DJ, computer wizard and archivist.
-Several people have told me that I resemble Glen Danzig.
+Several people have told me that I resemble Glenn Danzig.
 
 What: This is a listing of songs that reference every day of the calendar year.
 
@@ -21,7 +21,7 @@ Where: I live in Denton, TX.
 Why: My girlfriend Katherine mused, "I wonder how many days in a year you could say a song is named after?", so I decided to start compiling a list.
 
 Special Thanks:
-Katherine Treff - My girlfriend. She instigated a research project that lasted months.
+Katherine Treff - My girlfriend. She instigated a research project that lasted months. She assisted with finding some entries and did some QA of the list items.
 Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct ["Favorite Office Time Waster" blog] (https://blog.mysanantonio.com/timewasters/). Early in my research, I found his as-yet-incomplete list. His list made me realize that my list was indeed possible.
 azlyrics.com, wikipedia.com - My main research materials.
 [@djsober](https://twitter.com/sober1) - art design
