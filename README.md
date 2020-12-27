@@ -27,5 +27,6 @@ Katherine Treff - My girlfriend. She instigated a research project that lasted m
 Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct [Favorite Office Time Waster blog](https://blog.mysanantonio.com/timewasters/).<br>
 Early in my research, I found his partial list.<br>
 His list made me realize that my list was indeed possible.<br>
+My Dad - He was really excited when I told him about the list. He contributed a few entries<br>
 [azlyrics.com](https://www.azlyrics.com/), [Wikipedia](https://en.wikipedia.org/) - My main research materials.<br>
 [@djsober](https://twitter.com/sober1) - art design
