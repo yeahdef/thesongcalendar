@@ -8,8 +8,9 @@ Rules:<br>
 1. The song contains a reference to what I deem to be an undisputable month & day.<br>
 2. This reference must be in either the lyrics or song title.<br>
 <br>
-Who: I'm [Joey Liechty](https://twitter.com/yeahdef).<br>
+Who: I'm [Joey Liechty](https://twitter.com/yeahdef)<br>
 I'm a DJ, computer wizard and archivist.<br>
+I performed the bulk of the research and compilation of the data.<br>
 Several people have told me that I resemble Glenn Danzig.<br>
 <br>
 What: This is a listing of songs that reference every day of the calendar year.<br>
@@ -22,9 +23,8 @@ Why: My girlfriend Katherine mused, "I wonder how many days in a year you could 
 <br>
 Special Thanks:<br>
 Katherine Treff - My girlfriend. She instigated a research project that lasted months. She assisted with finding some entries and did some QA of the list items.<br>
-Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct ["Favorite Office Time Waster" blog] (https://blog.mysanantonio.com/timewasters/).<br>
+Richard A. Marini - A reporter with the San Antonio Express-News who started his own similar project as part of a now-defunct [Favorite Office Time Waster blog] (https://blog.mysanantonio.com/timewasters/).<br>
 Early in my research, I found his partial list.<br>
 His list made me realize that my list was indeed possible.<br>
 azlyrics.com, wikipedia.com - My main research materials.<br>
-
 [@djsober](https://twitter.com/sober1) - art design
