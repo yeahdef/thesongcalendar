@@ -9,9 +9,9 @@ Rules:
 1. The song contains a reference to what I deem to be an undisputable month & day.
 2. This reference must be in either the lyrics or song title.
 
-Who: I'm [Joey Liechty](https://twitter.com/yeahdef)
-I'm a DJ, computer wizard and archivist.
-I performed the bulk of the research and compilation of the data.
+Who: I'm [Joey Liechty](https://twitter.com/yeahdef)<br>
+I'm a DJ, computer wizard and archivist.<br>
+I performed the bulk of the research and compilation of the data.<br>
 Several people have told me that I resemble Glenn Danzig.
 
 What: This is a listing of songs that reference every day of the calendar year.
